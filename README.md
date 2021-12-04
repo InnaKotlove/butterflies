@@ -1,1 +1,1 @@
-# butterflies
+A simple command-line application.
